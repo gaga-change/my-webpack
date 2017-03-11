@@ -11,3 +11,4 @@ test.less
 test.js
 *test.js
 dist/
+npm-debug.log
